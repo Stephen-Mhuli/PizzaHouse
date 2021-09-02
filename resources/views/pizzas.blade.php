@@ -6,7 +6,7 @@
         <div class="title m-b-md">
                     Pizza List
         </div>
-              
+              <p>{{ $name }}--{{ $age }}</p>
         @foreach($pizzas as $pizza)            
              <p>{{ $loop->index }}-{{ $pizza['type'] }} -- {{ $pizza['base'] }}</p>
          @endforeach
