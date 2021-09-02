@@ -5,7 +5,7 @@
     <div class="content">
       <img src="/img/pizza-house.png" alt="Pizza House logo">
      <div class="title m-b-md">
-         The North's Best Pizzas
+         The DSM's Best Pizzas
      </div>
     </div>
 </div>
