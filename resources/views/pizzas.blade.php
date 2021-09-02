@@ -10,6 +10,6 @@
         @foreach($pizzas as $pizza)            
              <p>{{ $loop->index }}-{{ $pizza['type'] }} -- {{ $pizza['base'] }}</p>
          @endforeach
-
+     </div>
 </div>
 @endsection
