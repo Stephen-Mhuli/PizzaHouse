@@ -7,6 +7,7 @@
      <div class="title m-b-md">
          The DSM's Best Pizzas
      </div>
+     <a href="/pizzas/create">Order a pizza</a>
     </div>
 </div>
 @endsection
