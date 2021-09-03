@@ -7,6 +7,7 @@
      <div class="title m-b-md">
          The DSM's Best Pizzas
      </div>
+     <p class="msg"> {{ session('msg') }} </p>
      <a href="/pizzas/create">Order a pizza</a>
     </div>
 </div>
