@@ -53,9 +53,16 @@ footer {
 }
 
 .title {
-    font-size: 52px;
+    font-size: 40px;
     text-transform: uppercase;
     border-bottom: 2px solid;
+    padding: 12px 0;
+    color: purple;
+    letter-spacing: .2rem;
+}
+
+.order {
+    font-size: 22px;
     padding: 12px 0;
     color: purple;
 }

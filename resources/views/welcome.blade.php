@@ -5,10 +5,10 @@
     <div class="content">
       <img src="/img/pizza-house.png" alt="Pizza House logo">
      <div class="title m-b-md">
-         The DSM's Best Pizzas
+         <strong>DSM's Best Pizzas.</strong>
      </div>
      <p class="msg"> {{ session('msg') }} </p>
-     <a href="/pizzas/create">Order a pizza</a>
+     <a href="/pizzas/create"><strong class="order">Order a Pizza</strong></a>
     </div>
 </div>
 @endsection
